@@ -3,6 +3,7 @@ color: rgb(121, 70, 168);
 background-color: rgb(211, 180, 219);
 }
 #chatbot {
-    width: 400px;
     height: 700px;
+    float:left;
+    width: 30%
 }
