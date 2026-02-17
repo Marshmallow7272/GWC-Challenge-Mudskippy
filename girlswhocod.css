@@ -2,6 +2,11 @@ html {
 color: rgb(121, 70, 168);
 background-color: rgb(211, 180, 219);
 }
+
+.body {
+    width: 500px;
+}
+
 #chatbot {
     height: 700px;
     float:left;
