@@ -1,0 +1,16 @@
+{
+    "name": "Mud Skippy Bot",
+    "version": "1.0.0",
+    "description": "Anti AI Mudskipper Themed Chatbot",
+    "manifest_version": 3,
+    "author": "Bosque Girls Who Code",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "TBD"
+    },
+    "background": {
+        "service_worker": "background.js"
+    },
+    "permissions": ["tabs", "activeTab"],
+    "web_accessible_resources": []
+}
